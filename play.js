@@ -1,6 +1,8 @@
-var name = "Javlon";
-var age = 22;
-var hasHobbies = true;
+const name = "Javlon";
+let age = 21;
+const hasHobbies = true;
+
+age = 22;
 
 function summeriseUser(userName, userAge, userHasHobby) {
   return (
